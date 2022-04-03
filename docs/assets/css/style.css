@@ -1,0 +1,67 @@
+body {
+     font-family: 'Karla', sans-serif; sans-serif;
+     color: #222;
+     font-size: 1.3rem;
+     line-height: 2rem;
+     padding-top: 5vh;
+     padding-bottom: 10vh;
+     padding-left:20px;
+     padding-right:20px;
+  
+}
+
+h1{
+  line-height: 3rem;
+}
+
+ul li {
+  padding-bottom: 8px;
+}
+
+p{padding-right:50px;}
+
+.content{
+    max-width: 720px;
+    margin:auto;
+    padding-bottom: 2.5vh;
+}
+
+.avatar{
+  width:100px;
+ }
+
+p.lead{
+  font-size:1.6rem;
+}
+
+a{
+    color:royalblue;
+    text-decoration: none;
+}
+
+div:focus{
+    outline: none;
+}
+
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+span{color:grey; font-size: large;}
+
+
+.project img:first-child{
+  margin-top: 20px;
+}
+
+.project {
+    padding: 0px 0px 40px 0px;
+}
+
+.project img{
+  max-width: 100%;
+}
+
